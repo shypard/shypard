@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shypard, CS guy from Salzburg, Austria
+- 👋 Hi, I’m Christian, CS guy from Salzburg, Austria
 - 👀 I’m interested in Data Science-, Security-, Linux-, Embedded- & Open-Source Topics
 - 🌱 I’m currently learning about ML, Rust
 <!-- - 💞️ I’m looking to collaborate on --->
